@@ -1,0 +1,18 @@
+{
+  "name": "firsto_demo",
+  "version": "1.0.0",
+  "description": "Demonstrating NPM",
+  "main": "Hello.js",
+  "scripts": {
+    "start": "node Hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antuan"
+  ],
+  "author": "Anteneh Zeleke",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
